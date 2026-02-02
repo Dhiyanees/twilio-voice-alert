@@ -1,5 +1,0 @@
-<Response>
-    <Say voice="alice">
-        Alert! Unknown person detected in your surveillance system.
-    </Say>
-</Response>
